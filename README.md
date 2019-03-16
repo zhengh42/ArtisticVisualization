@@ -7,6 +7,8 @@
 
 * yellow_blue_berge
 
-  [embed]output/yellow_blue_berge.pdf[/embed]
+  <img src="output/yellow_blue_berge.jpeg" width="300" height="">  
+
+  Higher resolution in pdf: <a href="output/yellow_blue_berge.pdf">yellow_blue_berge.pdf</a>
 
 ## Something Scientific
