@@ -14,7 +14,7 @@
 
 ### Survival
 
-* Survival curve of 32 human cancers from TCGA
+* Survival curve of 32 human cancers from TCGA  
   <img src="output/survival_tcga.jpg" width="300" height="">  
   Higher resolution in pdf: <a href="output/survival_tcga.pdf">survival_tcga.pdf</a>  
   Input: <a href="input/clinical_PANCAN_patient_with_followup.tsv">link</a>
