@@ -11,7 +11,7 @@
 ### Mosaic
 
 * yellow_blue_berge  
-  <img src="output/yellow_blue_berge.jpeg" width="500" height="">  
+  <img src="output/yellow_blue_berge.png" width="500" height="">  
   Higher resolution in pdf: <a href="output/yellow_blue_berge.pdf">yellow_blue_berge.pdf</a>  
   Input: <a href="input/yellow_blue_berge.txt">link</a>
 
