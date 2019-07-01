@@ -3,6 +3,11 @@
 
 ## Something Artistic
 
+###  Strange attractors
+
+* Clifford attractors
+  <img src="output/CliffordAttractors_a.png" width="300" height="">  
+
 ### Mosaic
 
 * yellow_blue_berge  
