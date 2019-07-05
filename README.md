@@ -5,9 +5,9 @@
 
 ## Fireworks
 
-* July 4th, 2019
-<img src="output/fireworks_190704.png" width="500" height="">  
-
+* Very naive version... (July 4th, 2019)  
+  <img src="output/fireworks_190704.png" width="500" height="">    
+  Script: https://github.com/zhengh42/ArtisticVisualization/blob/master/scripts/R/script_R.md#fireworks
 
 ###  Strange attractors
 
