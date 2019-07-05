@@ -9,6 +9,9 @@
   <img src="output/fireworks_190704.png" width="500" height="">    
   Script: https://github.com/zhengh42/ArtisticVisualization/blob/master/scripts/R/script_R.md#fireworks
 
+* Little adjustment  
+  <img src="output/fireworks_190705.png" width="500" height="">    
+
 ###  Strange attractors
 
 * Clifford attractors  
