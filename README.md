@@ -3,10 +3,17 @@
 
 ## Something Artistic
 
+## Fireworks
+
+* July 4th, 2019
+<img src="output/fireworks_190704.png" width="500" height="">  
+
+
 ###  Strange attractors
 
 * Clifford attractors  
   <img src="output/CliffordAttractors_a.png" width="500" height="">  
+  <img src="output/CliffordAttractors_b.png" width="500" height="">  
 
 ### Mosaic
 
