@@ -51,7 +51,7 @@
 * Addiction and harm of psychoactive drugs | 药物成瘾和危害程度  
   <img src="output/substance_harm_dependance.png" width="800" height="">
 
-  Data source: <a href="hhttps://www.thelancet.com/action/showPdf?pii=S0140-6736%2807%2960464-4" target="\_blank">Development of a rational scale to assess the harm of drugs of potential misuse. Lancet. 2007</a>
+  Data source: <a href="https://www.thelancet.com/action/showPdf?pii=S0140-6736%2807%2960464-4" target="\_blank">Development of a rational scale to assess the harm of drugs of potential misuse. Lancet. 2007</a>
 
 * Alias for drugs | 毒品别名  
   <img src="output/substance_names.png" width="800" height="">  
