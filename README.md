@@ -1,6 +1,8 @@
 
 # The Artistic Visualization (AV) Project
 
+<div id="header">
+
 <!-- TOC -->
 
   - [Something Artistic | 随便画画](#something-artistic--%E9%9A%8F%E4%BE%BF%E7%94%BB%E7%94%BB)
@@ -24,11 +26,15 @@
 * Little adjustment  
   <img src="output/fireworks_190705.png" width="500" height="">    
 
+  [Return to beginning](#the-artistic-visualization-av-project)  
+
 ###  Strange attractors | 奇异吸引子
 
 * Clifford attractors  
   <img src="output/CliffordAttractors_a.png" width="500" height="">  
   <img src="output/CliffordAttractors_b.png" width="500" height="">  
+
+  [Return to beginning](#the-artistic-visualization-av-project)  
 
 ### Colours | 色
 
@@ -36,21 +42,27 @@
   <img src="output/yellow_blue_berge.png" width="500" height="">  
   <a href="input/yellow_blue_berge.txt" target="\_blank">Input</a>
 
+  [Return to beginning](#the-artistic-visualization-av-project)  
+
 ## The Art of Scientific Plotting | 科学作图
 
 ### Psychoactive/psychedelic drugs | 成瘾药物 | 毒品
 
 * Addiction and harm of psychoactive drugs | 药物成瘾和危害程度  
-  <img src="output/substance_harm_dependance.png" width="500" height="">
+  <img src="output/substance_harm_dependance.png" width="800" height="">
 
   Data source: <a href="hhttps://www.thelancet.com/action/showPdf?pii=S0140-6736%2807%2960464-4" target="\_blank">Development of a rational scale to assess the harm of drugs of potential misuse. Lancet. 2007</a>
 
 * Alias for drugs | 毒品别名  
-  <img src="output/substance_names.png" width="600" height="">  
+  <img src="output/substance_names.png" width="800" height="">  
+
+  [Return to beginning](#the-artistic-visualization-av-project)  
 
 ### Survival | 生存曲线
 
 * Survival curve of 32 human cancers from TCGA  | TCGA 32种癌症生存曲线  
-  <img src="output/survival_tcga.jpg" width="500" height="">  
+  <img src="output/survival_tcga.jpg" width="800" height="">  
   <a href="output/survival_tcga.pdf" target="\_blank" >Higher resolution in pdf</a>   
   <a href="input/clinical_PANCAN_patient_with_followup.tsv" target="\_blank">Input</a>
+
+  [Return to beginning](#the-artistic-visualization-av-project)  
