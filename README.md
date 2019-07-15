@@ -1,5 +1,5 @@
 
-# The Artistic Visualization (AV) Project
+# The Artistic Visualization Project
 
 <div id="header">
 
