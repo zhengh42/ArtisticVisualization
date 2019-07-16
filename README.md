@@ -35,7 +35,7 @@
   <img src="output/CliffordAttractors_a.png" width="500" height="">  
   <img src="output/CliffordAttractors_b.png" width="500" height="">  
 
-  [Return to beginning](#the-artistic-visualization-av-project)  
+  [Return to beginning](#the-artistic-visualization-project)  
 
 ### Colours | 色
 
@@ -43,7 +43,7 @@
   <img src="output/yellow_blue_berge.png" width="500" height="">  
   <a href="input/yellow_blue_berge.txt" target="\_blank">Input</a>
 
-  [Return to beginning](#the-artistic-visualization-av-project)  
+  [Return to beginning](#the-artistic-visualization-project)  
 
 ## The Art of Scientific Plotting | 科学作图
 
@@ -55,7 +55,7 @@
   <a href="https://github.com/zhengh42/ArtisticVisualization/blob/master/input/IHME-GBD_2017_DATA-TB-China.csv" target="\_blank">Input</a>    
   <a href="https://github.com/zhengh42/ArtisticVisualization/blob/master/scripts/R/script_R.md#tuberculosis-burden-in-china" target="\_blank">Script</a>
 
-  [Return to beginning](#the-artistic-visualization-av-project)  
+  [Return to beginning](#the-artistic-visualization-project)  
 
 ### Psychoactive/psychedelic drugs | 成瘾药物 | 毒品
 
@@ -67,7 +67,7 @@
 * Alias for drugs | 毒品别名  
   <img src="output/substance_names.png" width="800" height="">  
 
-  [Return to beginning](#the-artistic-visualization-av-project)  
+  [Return to beginning](#the-artistic-visualization-project)  
 
 ### Survival | 生存曲线
 
@@ -76,4 +76,4 @@
   <a href="output/survival_tcga.pdf" target="\_blank" >Higher resolution in pdf</a>   
   <a href="input/clinical_PANCAN_patient_with_followup.tsv" target="\_blank">Input</a>
 
-  [Return to beginning](#the-artistic-visualization-av-project)  
+  [Return to beginning](#the-artistic-visualization-project)  
