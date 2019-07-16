@@ -10,6 +10,7 @@
     - [Strange attractors | 奇异吸引子](#strange-attractors--%E5%A5%87%E5%BC%82%E5%90%B8%E5%BC%95%E5%AD%90)
     - [Colours | 色](#colours--%E8%89%B2)
   - [The Art of Scientific Plotting | 科学作图](#the-art-of-scientific-plotting--%E7%A7%91%E5%AD%A6%E4%BD%9C%E5%9B%BE)
+    - [Tuberculosis in China | 中国肺结核](#tuberculosis-in-china--%E4%B8%AD%E5%9B%BD%E8%82%BA%E7%BB%93%E6%A0%B8)
     - [Psychoactive/psychedelic drugs | 成瘾药物 | 毒品](#psychoactivepsychedelic-drugs--%E6%88%90%E7%98%BE%E8%8D%AF%E7%89%A9--%E6%AF%92%E5%93%81)
     - [Survival | 生存曲线](#survival--%E7%94%9F%E5%AD%98%E6%9B%B2%E7%BA%BF)
 
@@ -45,6 +46,16 @@
   [Return to beginning](#the-artistic-visualization-av-project)  
 
 ## The Art of Scientific Plotting | 科学作图
+
+### Tuberculosis in China | 中国肺结核
+
+* 1990-2017年中国肺结核发病和患病情况  
+  <img src="output/GBD_TB_China.png" width="800" height="">  
+  Data source: Global Burden of Disease Study 2017   
+  <a href="https://github.com/zhengh42/ArtisticVisualization/blob/master/input/IHME-GBD_2017_DATA-TB-China.csv" target="\_blank">Input</a>    
+  <a href="https://github.com/zhengh42/ArtisticVisualization/blob/master/scripts/R/script_R.md#tuberculosis-burden-in-china" target="\_blank">Script</a>
+
+  [Return to beginning](#the-artistic-visualization-av-project)  
 
 ### Psychoactive/psychedelic drugs | 成瘾药物 | 毒品
 
