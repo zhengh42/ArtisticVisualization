@@ -46,6 +46,14 @@
 
 ## The Art of Scientific Plotting | 科学作图
 
+### Tuberculosis in China | 中国肺结核
+
+* 1990-2017中国肺结核发病和患病情况
+
+  <img src="output/GBD_TB_China.png" width="800" height="">
+
+  Data source: Global Burden of Disease Study 2017 
+
 ### Psychoactive/psychedelic drugs | 成瘾药物 | 毒品
 
 * Addiction and harm of psychoactive drugs | 药物成瘾和危害程度  

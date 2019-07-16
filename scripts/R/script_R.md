@@ -49,3 +49,32 @@ png(paste0("/Users/zhengh42/Dropbox/projects/ArtisticVisualization/output/","fir
 grid.draw(grobTree(rectGrob(gp=gpar(fill=bgcol,lwd=0)),grid.arrange(grobs = list(p))))
 dev.off()
 ```
+
+### Tuberculosis burden in China
+
+```
+require(data.table)
+require(ggplot2)
+data=fread("/Users/zhengh42/Dropbox/projects/ArtisticVisualization/input/IHME-GBD_2017_DATA-TB-China.csv")
+data.subset=data[age_name=="All Ages" & (measure_name=="Incidence" | measure_name=="Prevalence") & metric_name!="Percent"]
+
+translator <- c(
+  Incidence = "Incidence(发病)",
+  Prevalence = "Prevalence(患病)",
+  Number = "Number(总数)",
+  Percent = "Percent(百分比)",
+  Rate = "Rate(率)"
+)
+
+png("/Users/zhengh42/Dropbox/projects/ArtisticVisualization/output/GBD_TB_China.png",width = 2000,height = 1500,units="px",res=300)
+
+ggplot(data.subset,aes(x=year,y=val,color=factor(sex_name,labels=c("Both"="Both(总数)","Female"="Female(女)","Male"="Male(男)")))) +
+  geom_line(alpha=0.5) +
+  scale_x_continuous(breaks=seq(1990,2017,5)) +
+  ggtitle("1990-2017年中国肺结核发病和患病情况") + labs(y="",x="year(年份)") +
+  facet_wrap(measure_name ~ metric_name ,scales="free",labeller = labeller(measure_name = translator,metric_name=translator)) +
+  theme(text=element_text(size=10,family='STKaiti'),panel.border = element_blank(),panel.grid.major = element_blank(),panel.grid.minor = element_blank(),legend.position = "right",legend.title = element_blank()) +
+  scale_color_manual(values=c("Both(总数)"="black","Female(女)"="#fc8d62","Male(男)"="#66c2a5"))
+
+dev.off()
+```
