@@ -53,6 +53,12 @@
 
   [Return to beginning](#the-artistic-visualization-project)  
 
+* Fifty shades of | 五十度  
+  <img src="output/fiftyshadesofblue.png" width="500" height="">    
+  <img src="output/fiftyshadesofgreen.png" width="500" height="">  
+  <img src="output/fiftyshadesofgrey.png" width="500" height="">  
+  <img src="output/fiftyshadesofred.png" width="500" height="">  
+
 ## The Art of Scientific Plotting | 科学作图
 
 ### Tuberculosis in China | 中国肺结核
