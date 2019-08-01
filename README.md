@@ -31,6 +31,8 @@ All plots are made with R, mainly ggplot2.
 * Weir\~do\~re\~mi  
   <img src="output/weirdoremi.png" width="500" height="">  
 
+  [Return to beginning](#the-artistic-visualization-project)  
+
 ## Something Artistic | 随便画画
 
 ###  Sky | 天空
@@ -39,6 +41,8 @@ All plots are made with R, mainly ggplot2.
   <img src="output/sky_1.png" width="500" height="">    
   <img src="output/sky_2.png" width="500" height="">    
   <img src="output/sky_3.png" width="500" height="">    
+
+  [Return to beginning](#the-artistic-visualization-project)  
 
 ### Fireworks | 烟火
 
@@ -49,7 +53,7 @@ All plots are made with R, mainly ggplot2.
 * Little adjustment  
   <img src="output/fireworks_190705.png" width="500" height="">    
 
-  [Return to beginning](#the-artistic-visualization-av-project)  
+  [Return to beginning](#the-artistic-visualization-project)  
 
 ###  Strange attractors | 奇异吸引子
 
