@@ -1,10 +1,14 @@
 
 # The Artistic Visualization Project
 
-<div id="header">
+All plots are made with R, mainly ggplot2.
+
+**_Table of Contents:_**
 
 <!-- TOC -->
 
+  - [Weird](#weird)
+    - [Do~re~mi](#doremi)
   - [Something Artistic | 随便画画](#something-artistic--%E9%9A%8F%E4%BE%BF%E7%94%BB%E7%94%BB)
     - [Sky | 天空](#sky--%E5%A4%A9%E7%A9%BA)
     - [Fireworks | 烟火](#fireworks--%E7%83%9F%E7%81%AB)
@@ -16,6 +20,16 @@
     - [Survival | 生存曲线](#survival--%E7%94%9F%E5%AD%98%E6%9B%B2%E7%BA%BF)
 
 <!-- /TOC -->
+
+## Weird
+
+### Do~re~mi
+
+* Avoca~do~re~mi  
+  <img src="output/avocadoremi.png" width="500" height="">  
+
+* Weir~do~re~mi  
+  <img src="output/weirdoremi.png" width="500" height="">  
 
 ## Something Artistic | 随便画画
 
