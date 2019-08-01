@@ -8,7 +8,7 @@ All plots are made with R, mainly ggplot2.
 <!-- TOC -->
 
   - [Weird](#weird)
-    - [Do~re~mi](#doremi)
+    - [Do\~re\~mi](#doremi)
   - [Something Artistic | 随便画画](#something-artistic--%E9%9A%8F%E4%BE%BF%E7%94%BB%E7%94%BB)
     - [Sky | 天空](#sky--%E5%A4%A9%E7%A9%BA)
     - [Fireworks | 烟火](#fireworks--%E7%83%9F%E7%81%AB)
@@ -23,12 +23,12 @@ All plots are made with R, mainly ggplot2.
 
 ## Weird
 
-### Do~re~mi
+### Do\~re\~mi
 
-* Avoca~do~re~mi  
+* Avoca\~do\~re\~mi  
   <img src="output/avocadoremi.png" width="500" height="">  
 
-* Weir~do~re~mi  
+* Weir\~do\~re\~mi  
   <img src="output/weirdoremi.png" width="500" height="">  
 
 ## Something Artistic | 随便画画
