@@ -8,8 +8,9 @@ All plots are made with R, mainly ggplot2.
 <!-- TOC -->
 
   - [Weird](#weird)
-    - [Do\~re\~mi](#doremi)
+    - [Do\~re\~mi](#do%5Cre%5Cmi)
   - [Something Artistic | 随便画画](#something-artistic--%E9%9A%8F%E4%BE%BF%E7%94%BB%E7%94%BB)
+    - [Moon | 月](#moon--%E6%9C%88)
     - [Sky | 天空](#sky--%E5%A4%A9%E7%A9%BA)
     - [Fireworks | 烟火](#fireworks--%E7%83%9F%E7%81%AB)
     - [Strange attractors | 奇异吸引子](#strange-attractors--%E5%A5%87%E5%BC%82%E5%90%B8%E5%BC%95%E5%AD%90)
@@ -34,6 +35,11 @@ All plots are made with R, mainly ggplot2.
   [Return to beginning](#the-artistic-visualization-project)  
 
 ## Something Artistic | 随便画画
+
+### Moon | 月
+
+* Dawn breeze and fading moon | 晓风残月  
+  <img src="output/xiaofengcanyue.png" width="500" height="">     
 
 ###  Sky | 天空
 
