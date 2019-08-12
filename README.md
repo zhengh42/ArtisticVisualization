@@ -8,7 +8,7 @@ All plots are made with R, mainly ggplot2.
 <!-- TOC -->
 
   - [Weird](#weird)
-    - [Do\~re\~mi](#do%5Cre%5Cmi)
+    - [DoReMi](#doremi)
   - [Something Artistic | 随便画画](#something-artistic--%E9%9A%8F%E4%BE%BF%E7%94%BB%E7%94%BB)
     - [Moon | 月](#moon--%E6%9C%88)
     - [Sky | 天空](#sky--%E5%A4%A9%E7%A9%BA)
@@ -21,10 +21,11 @@ All plots are made with R, mainly ggplot2.
     - [Survival | 生存曲线](#survival--%E7%94%9F%E5%AD%98%E6%9B%B2%E7%BA%BF)
 
 <!-- /TOC -->
+<!-- /TOC -->
 
 ## Weird
 
-### Do\~re\~mi
+### DoReMi
 
 * Avoca\~do\~re\~mi  
   <img src="output/avocadoremi.png" width="500" height="">  
@@ -40,6 +41,8 @@ All plots are made with R, mainly ggplot2.
 
 * Dawn breeze and fading moon | 晓风残月  
   <img src="output/xiaofengcanyue.png" width="500" height="">     
+
+  [Return to beginning](#the-artistic-visualization-project)  
 
 ###  Sky | 天空
 
