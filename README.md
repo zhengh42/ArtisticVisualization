@@ -74,11 +74,18 @@ All plots are made with R, mainly ggplot2.
 
 ### Colours | 色
 
-* Blue and yellow | 蓝与黄  
+* Blue and yellow | 蓝与黄   
   <img src="output/yellow_blue_berge.png" width="500" height="">  
   <a href="input/yellow_blue_berge.txt" target="\_blank">Input</a>
 
   [Return to beginning](#the-artistic-visualization-project)  
+
+* Voronoi  
+  <img src="output/Voronoi_a.png" width="500" height="">    
+  <img src="output/Voronoi_b.png" width="500" height="">  
+  
+  [Return to beginning](#the-artistic-visualization-project)  
+
 
 * Fifty shades of | 五十度  
   <img src="output/fiftyshadesofblue.png" width="500" height="">    
