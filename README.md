@@ -74,6 +74,50 @@ All plots are made with R, mainly ggplot2.
 
 ### Colours | 色
 
+* Minkowski Distance
+
+  <img src="output/Voronoi_c1.png" width="500" height="">  
+
+  The Minkowski distance defines the distance between two points in a normed vector space.
+
+  \[
+  X=(x_{1},x_{2},...,x_{n})  
+  \]
+  \[
+  Y=(y_{1},y_{2},...,y_{n})  
+  \]
+  \[
+  D(X,Y)=(\sum_{i=1}^n|x_{i}-y_{i}|^p)^\frac{1}{p}
+  \]
+
+  When p = 1 or 2, the Minkowski distance corresponds to the Manhattan distance or the Euclidean distance, respectively.
+
+  The plot is a collection of Voronoi diagrams, partitioning the space into sub-spaces based on the distance to a set of pre-defined points/seeds.
+
+  The p for Minkowski distance used in each sub-plot is shown below.
+
+  <center>
+  <table>
+  <tr>
+      <td><center>0.1</center></td>
+      <td><center>0.4</center></td>
+      <td><center>0.5</center></td>
+  </tr>
+  <tr>
+      <td><center>0.7</center></td>
+      <td><center>The points</center></td>
+      <td><center>1 (Manhattan)</center></td>
+  </tr>
+  <tr>
+      <td><center>1.5</td>
+      <td><center>2 (Euclidean)</center></td>
+      <td><center>100</center></td>
+  </tr>
+  </table>
+  </center>
+
+  [Return to beginning](#the-artistic-visualization-project) 
+
 * Blue and yellow | 蓝与黄   
   <img src="output/yellow_blue_berge.png" width="500" height="">  
   <a href="input/yellow_blue_berge.txt" target="\_blank">Input</a>
@@ -83,7 +127,7 @@ All plots are made with R, mainly ggplot2.
 * Voronoi  
   <img src="output/Voronoi_a.png" width="500" height="">    
   <img src="output/Voronoi_b.png" width="500" height="">  
-  
+
   [Return to beginning](#the-artistic-visualization-project)  
 
 
