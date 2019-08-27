@@ -80,15 +80,15 @@ All plots are made with R, mainly ggplot2.
 
   The Minkowski distance defines the distance between two points in a normed vector space.
 
-  \[
-  X=(x_{1},x_{2},...,x_{n})  
-  \]
-  \[
+  $$
+  X=(x_{1},x_{2},...,x_{n}    
+  $$
+  $$
   Y=(y_{1},y_{2},...,y_{n})  
-  \]
-  \[
+  $$
+  $$
   D(X,Y)=(\sum_{i=1}^n|x_{i}-y_{i}|^p)^\frac{1}{p}
-  \]
+  $$
 
   When p = 1 or 2, the Minkowski distance corresponds to the Manhattan distance or the Euclidean distance, respectively.
 
@@ -116,7 +116,7 @@ All plots are made with R, mainly ggplot2.
   </table>
   </center>
 
-  [Return to beginning](#the-artistic-visualization-project) 
+  [Return to beginning](#the-artistic-visualization-project)
 
 * Blue and yellow | 蓝与黄   
   <img src="output/yellow_blue_berge.png" width="500" height="">  
